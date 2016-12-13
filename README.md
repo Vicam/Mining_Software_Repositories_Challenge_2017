@@ -13,9 +13,9 @@ from the time of commit extracted through GHTorrent.
 Data set link: https://travistorrent.testroots.org
 
 
-# Reference
+# References
 Creators of TravisTorrent:
-Beller M, Gousios G, Zaidman A. (2017) TravisTorrent: Synthesizing Travis CI and GitHub for Full-Stack Research on Continuous Integration
+Beller M, Gousios G, Zaidman A. (2017) TravisTorrent: Synthesizing Travis CI and GitHub for Full-Stack Research on Continuous Integration.  
 The research paper: http://www.st.ewi.tudelft.nl/~mbeller/publications/2016_beller_gousios_zaidman_travistorrent_synthesizing_travis_ci_and_github_for_full-stack_research_on_continuous_integration.pdf
 
  
