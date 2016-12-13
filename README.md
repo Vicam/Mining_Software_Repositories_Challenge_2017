@@ -13,10 +13,9 @@ from the time of commit extracted through GHTorrent.
 Data set link: https://travistorrent.testroots.org
 
 
-@inproceedings{msr17challenge,
- title={TravisTorrent: Synthesizing Travis CI and GitHub for Full-Stack Research on Continuous Integration},
- author={Beller, Moritz and Gousios, Georgios and Zaidman, Andy},
- booktitle={Proceedings of the 14th working conference on mining software repositories},
- preprint={http://www.st.ewi.tudelft.nl/~mbeller/publications/2017_beller_gousios_zaidman_travistorrent_synthesizing_travis_ci_and_github_for_full-stack_research_on_continuous_integration.pdf},
- year={2017}
-}
+# Reference
+Creators of TravisTorrent:
+Beller M, Gousios G, Zaidman A. (2017) TravisTorrent: Synthesizing Travis CI and GitHub for Full-Stack Research on Continuous Integration
+The research paper: http://www.st.ewi.tudelft.nl/~mbeller/publications/2016_beller_gousios_zaidman_travistorrent_synthesizing_travis_ci_and_github_for_full-stack_research_on_continuous_integration.pdf
+
+ 
